@@ -16,24 +16,19 @@ L2ksy0d@github:~$ ./welcome.sh
                 ||     ||
 ```
 
-<img align="left" src="https://github.com/TryKatChup/TryKatChup/blob/main/cropped.jpg" alt="Unfortunately I didn't find the author of the pic, feel to open a pull request if found" width="320" /> 
+<img align="left" src="https://github.com/L2ksy0d/L2ksy0d/blob/main/1.jpg" alt="Unfortunately I didn't find the author of the pic, feel to open a pull request if found" width="320" /> 
 
 ```
 L2ksy0d@github
 -------------------------
-🏫 MsC Computer engineering student @Unibo
-🔎 Main interests in AI & Cybersec
-🔭 Working on Deep Learning based cybersecurity solutions
-🌱 Learning about Computer Vision and Machine Learning stuff
-🌟 Main languages: Python, C/C++, Java 
+🏫 Henu Computer engineering student
+🔎 Main interests in Vulnerability mining and code audit
+🔭 Working on ThreatBook
+🌱 Learning about Code Security and Webshell detection
+🌟 Main languages: Python, PHP ,Golang
 🏴‍☠️ Currently involved in CTF competitions and sysadmin tasks
 🚩 Interested in network security and web security
-💖 In a complicated relationship with Suricata IDS
-🖌️ Love drawing portraits and cute stuff, cycling, going to concerts
-🎵 Love metal, rock, jazz and blues
-⚡ Love ketchup (but not on pasta or pizza) 🍅
-💻 Total commits: 527
-⭐ Total start gained: 67
+
 ```
 
 
