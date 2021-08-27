@@ -36,6 +36,8 @@ L2ksy0d@github
 ```console
 L2ksy0d@github:~$ sudo echo "* * * * * /usr/local/bin/catchbugs" >> /tmp/crontab$$
 ```
+<br />
+
 
 ```
 [sudo] Password for L2ksy0d:
@@ -57,17 +59,47 @@ CATching bugs in code...
 [bug] .*' /  .*' ; .*`- +'  `*' 
       `*-*   `*-*  `*-*'
 ```
+<br />
 
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=L2ksy0d&show_icons=true&&theme=calm)](https://github.com/anuraghazra/github-readme-stats)<br />
+### 🧰 Languages & Tools
+![](https://img.shields.io/badge/Golang-000000?style=for-the-badge&logo=golang&logoColor=white)
+![](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
+![](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
+![](https://img.shields.io/badge/Python-00599C?style=for-the-badge&logo=python&logoColor=white)
+![](https://img.shields.io/badge/MySQL-316192?style=for-the-badge&logo=mysql&logoColor=white)
+![](https://img.shields.io/badge/PHP-F24E1E?style=for-the-badge&logo=php&logoColor=white)
 
-<a href="https://github.com/anuraghazra/github-readme-stats">
+### Projects and Dev Stuffs:
+
+<details>	
+  <summary><b>⚡ Github Stats</b></summary>
+
+  <br />
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=L2ksy0d&show_icons=true&theme=calm&hide_border=true&&count_private=true&include_all_commits=true" />
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=L2ksy0d&exclude_repo=Code-Audit&theme=calm&show_icons=true&hide_border=true&layout=compact&langs_count=8"/>
+</details>
+
+<details>	
+  <summary><b>☄️ Github Streaks</b></summary>
+
+  <br />
+  <img height="180em" src="https://github-readme-streak-stats.herokuapp.com/?user=L2ksy0d&hide_border=true&theme=calm" />
+</details>
+
+
+<details>	
+  <summary><b>🚀Open Source Projects</b></summary>
+
+  <br />
+  <a href="https://github.com/anuraghazra/github-readme-stats">
   <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=L2ksy0d&repo=Code-Audit&theme=calm" />
-</a>
-
-<a href="https://github.com/anuraghazra/github-readme-stats">
+  </a>
+  <br /><br />
+  <a href="https://github.com/anuraghazra/github-readme-stats">
   <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=L2ksy0d&repo=Yara-rules-collect&theme=calm" />
-</a>
-
-<a href="https://github.com/anuraghazra/github-readme-stats">
+  </a>
+  <br /><br />
+  <a href="https://github.com/anuraghazra/github-readme-stats">
   <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=L2ksy0d&repo=Webshell-Sample&theme=calm" />
-</a>
+  </a>
+</details>
