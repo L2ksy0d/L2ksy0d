@@ -16,7 +16,7 @@ L2ksy0d@github:~$ ./welcome.sh
                 ||     ||
 ```
 
-<img align="left" src="https://github.com/L2ksy0d/L2ksy0d/blob/main/1.jpg" alt="Unfortunately I didn't find the author of the pic, feel to open a pull request if found" width="320" /> 
+<img align="left" src="https://github.com/L2ksy0d/About-L2ksy0d/blob/main/1.jpg" alt="Unfortunately I didn't find the author of the pic, feel to open a pull request if found" width="320" /> 
 
 ```
 L2ksy0d@github
