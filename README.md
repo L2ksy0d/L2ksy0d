@@ -69,8 +69,6 @@ CATching bugs in code...
 ![](https://img.shields.io/badge/MySQL-316192?style=for-the-badge&logo=mysql&logoColor=white)
 ![](https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white)
 
-Regular learning<br /><br />
-![](https://img.shields.io/badge/redis-%23DD0031.svg?&style=for-the-badge&logo=redis&logoColor=white)
 
 🌐 Web Browsers<br /><br />
 ![](https://img.shields.io/badge/Google_chrome-4285F4?style=for-the-badge&logo=Google-chrome&logoColor=white)
@@ -85,6 +83,7 @@ Regular learning<br /><br />
 ![](https://img.shields.io/badge/Visual_Studio_Code-0078D4?style=for-the-badge&logo=visual%20studio%20code&logoColor=white)
 ![](https://img.shields.io/badge/Atom-66595C?style=for-the-badge&logo=Atom&logoColor=white)
 ![](https://img.shields.io/badge/pycharm-143?style=for-the-badge&logo=pycharm&logoColor=black&color=black&labelColor=green)
+![](https://img.shields.io/badge/phpstrom-143?style=for-the-badge&logo=pycharm&logoColor=black&color=black&labelColor=green)
 
 ### Projects and Dev Stuffs:
 
