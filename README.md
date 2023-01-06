@@ -61,43 +61,4 @@ CATching bugs in code...
 ```
 <br />
 
-### 🧰 Languages & Tools & OS
-![](https://img.shields.io/badge/Go-00ADD8?style=for-the-badge&logo=go&logoColor=white)
-![](https://img.shields.io/badge/Python-00599C?style=for-the-badge&logo=python&logoColor=white)
-![](https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white)
-
-
-### Projects and Dev Stuffs:
-
-<details>	
-  <summary><b>⚡ Github Stats</b></summary>
-
-  <br />
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=L2ksy0d&show_icons=true&theme=calm&hide_border=true&&count_private=true&include_all_commits=true" />
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=L2ksy0d&exclude_repo=Code-Audit&theme=calm&show_icons=true&hide_border=true&layout=compact&langs_count=8"/>
-</details>
-
-<details>	
-  <summary><b>☄️ Github Streaks</b></summary>
-
-  <br />
-  <img height="180em" src="https://github-readme-streak-stats.herokuapp.com/?user=L2ksy0d&hide_border=true&theme=calm" />
-</details>
-
-
-<details>	
-  <summary><b>🚀Open Source Projects</b></summary>
-
-  <br />
-  <a href="https://github.com/anuraghazra/github-readme-stats">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=L2ksy0d&repo=Code-Audit&theme=calm" />
-  </a>
-  <br /><br />
-  <a href="https://github.com/anuraghazra/github-readme-stats">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=L2ksy0d&repo=Yara-rules-collect&theme=calm" />
-  </a>
-  <br /><br />
-  <a href="https://github.com/anuraghazra/github-readme-stats">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=L2ksy0d&repo=Webshell-Sample&theme=calm" />
-  </a>
-</details>
+![card](https://cdn.jsdelivr.net/gh/L2ksy0d/netease-cloud-music-card/card.svg)
