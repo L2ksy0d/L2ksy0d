@@ -60,5 +60,3 @@ CATching bugs in code...
       `*-*   `*-*  `*-*'
 ```
 <br />
-
-![card](https://cdn.jsdelivr.net/gh/L2ksy0d/netease-cloud-music-card/card.svg)
